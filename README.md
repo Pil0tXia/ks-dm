@@ -37,6 +37,6 @@ sweetalert
 ## 部署
 
 1. 使用`init.sql`导入数据库
-2. 解压代码后，使用`Idea`打开目录
-3. Maven使用Idea自带的`Bundled (Maven 3)`即可。jdk 版本 1.8
+2. 解压代码后，使用`IDEA`打开目录
+3. Maven使用IDEA自带的`Bundled (Maven 3)`即可。jdk 版本 1.8
 4. 修改`application.yml`中的数据库连接池
